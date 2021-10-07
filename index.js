@@ -26,7 +26,7 @@ function chooseDif3() {
 
 
 function wordw() {
-    var randomWords = ["Humor", "Miniature", "Amusing", "Creepy", "Fact", "Risk", "Verse", "Land", "Lumpy", "Holiday", "Glorious", "Weigh", "Brake", "Pretty", "Grin", "Capricious", "Bite-sized", "Misty", "Ignore", "Certain", "Sloppy", "Dress", True", "Zonked", "Observation", "Action", "Various", "Want", "Suck", "Dress", "Scarecrow", "Judge", "Madly", "Quizzical", "Consist", "Fierce", "Arrest", "Serve", "Fit", "Hug", "Curve", "Eatable", "Tub", "Race", "Innocent", "Open", "Preach", "Steady", "Acoustics", "Lock", "Field", "Arrange", "Rifle", "Learned", "Toe", "Glow", "Competition", "Ill-fated", "Match", "Male", "Measure", "Loaf", "Smile", "Wrestle", "Dull", "Food", "Locket", "Bell", "Beg", "Strengthen", "Responsible", "Enchanting", "Loutish", "Switch", "Idea", "Squeamish", "Pig", "Bat", "Dear", "Trains", "Owl", "Frog", "Assorted", "lonely", "Hurry", "Natural", "Sun", "Snow", "Obnoxious", "Broken", "Friend", "Bright", "Cake", "Sour", "Permit", "Economic", "Quick", "Van", "Tempt", "Apparel", "Decay", "Business", "Adjustment", "Blushing", "Makeshift", "Slippery", "Load", "Winter", "Exist", "Tongue", "Country", "Roll", "Fast", "Moon", "Possess", "Pat", "Pass", "Books", "impartial", "Hospitable", "Dust", "Naughty", "Tacky", "Produce", "Committee", "Fuzzy", "Judiciary", "Nebulous", "Stick", "Ear", "Copy", "Friendly", "Press", "distinct", "Vegetable", "Upset", "Venomous", "Statement"]    var raNum = Math.floor(Math.random() * 70);
+    var randomWords = ["Press", "Post-office", "Vegetable", "Upset", "Statement"]    var raNum = Math.floor(Math.random() * 70);
     return randomWords[raNum]
     }
 
